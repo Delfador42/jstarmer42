@@ -1,0 +1,81 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Josefin Sans', serif;
+}
+
+h1 {
+  width: 40%;
+  color: #ba6b57;
+  margin: 0 auto 0 auto;
+}
+
+p {
+  color: #f1935c
+}
+
+.top-container {
+  background-color: #30475e;
+  position: relative;
+  padding-top: 100px;
+
+}
+.middle-container{
+}
+.bottom-container{
+}
+.cloud1 {
+  position: absolute;
+  right: 300px;
+}
+
+.cloud2 {
+  position: absolute;
+}
+
+.mountain {
+  position: relative;
+  top: 4px;
+}
+
+div {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.Signiture {
+  font-size: 150%;
+  font-weight: lighter;
+  font-family: 'Miniver', serif;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.skill-row2{
+  width: 50%;
+  margin: 50px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.sunset{
+  float: left;
+  margin-right: 20px;
+  width: 25%;
+}
+
+.black_hole{
+  float: left;
+  margin-right: 20px;
+  width: 35%;
+}
+
+.sources{
+  font-size: 10%;
+}
